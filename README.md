@@ -1,1 +1,2 @@
 # Email-Analysis
+The purpose of this project is to trace the sentiment of Hillary Clinton’s emails from 2009 to 2012. By using K-means clustering and sentiment analysis, we find that the positive sentiment value for Hillary Clinton’s emails decreased from 2009 to 2010 and increased from 2010-2012 in the midst of Haiti's devastating earthquake and the Benghazi scandal. Our study aims to analyze this time period and trace its textual context.
